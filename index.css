@@ -582,7 +582,7 @@ body {
 /* High DPI Screens */
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .hero-section {
-    background-image: url(/hyperrealistic-photo-professions-brunette-woman-260nw-2617948181.webp);
+    background-image: url(hyperrealistic-photo-professions-brunette-woman-260nw-2617948181.webp);
   }
 }
 
